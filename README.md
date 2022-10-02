@@ -1,16 +1,21 @@
-# automated_chatbot
+# Campus OLA
+This application is for college students which will help in connecting them for cab booking during vacations, trips etc.
 
-A new Flutter project.
+## Technologies
+This project needs to be built using Flutter & Firebase
 
-## Getting Started
+## Project details:
+- Creating search post for cab sharing
+- Searching in added posts with custom filters
+- Chat feature between users
+- Call/email redirecting etc.
 
-This project is a starting point for a Flutter application.
+## Contribution Guide
+- Get started by picking & solving issues mentioned in issues section
+- If two or more people solves same issue correctly then, person who created pull request before will get priority
+- When creating pull request keep title as "#issueID plus issue title", example="#137 fix submit button."
+- If you find any bug or have new feature's idea then, create a issue with supporting description & details. If issue found relevant then, maintainers will react to it and you can start working on it.
 
-A few resources to get you started if this is your first Flutter project:
+## Help & Discussions
+Join SWC IIT Guwahati's [Discord Server](https://discord.gg/2QUrA8HgWx) to connect with maintainers and other contributers
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
